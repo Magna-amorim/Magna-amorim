@@ -11,6 +11,7 @@ Eu sou estudante de web designer front-end.
 <br>
 
 Minhas redes: 
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Magna-amorim)](https://github.com/Magna-amorim)
 
   
