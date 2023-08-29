@@ -21,7 +21,7 @@ Minhas estatisticas:
 
 <hr>
 
-[![magna-amorim GitHub stats](https://github-readme-stats.vercel.app/api?username=magna-amorim&theme=gruvbox)](https://github.com/magna-amorim/github-readme-stats)
+[![magna-amorim GitHub stats](https://github-readme-stats.vercel.app/api?username=magna-amorim&theme=cobalt)](https://github.com/magna-amorim/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magna-amorim&layout=compact)](https://github.com/Magna-amorim/github-readme-stats)
 
