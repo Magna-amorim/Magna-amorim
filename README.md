@@ -18,11 +18,7 @@ Minhas redes:
 <hr>
 
 Minhas estatisticas:
-
-[![Magna-amorim GitHub stats](https://github-readme-stats.vercel.app/api?username=Magna-amorim&theme=cobalt)](https://github.com/Magna-amorim/github-readme-stats)
-
-<hr>
-
+[![Magna-amorim GitHub stats](https://github-readme-stats.vercel.app/api?username=Magna-amorim&theme=gruvbox)](https://github.com/Magna-amorim/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magna-amorim&layout=compact)](https://github.com/Magna-amorim/github-readme-stats)
 
 <hr>
