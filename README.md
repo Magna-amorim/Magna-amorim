@@ -19,7 +19,7 @@ Minhas redes:
 
 Minhas estatisticas:
 
-[![Magna-amorim GitHub stats](https://github-readme-stats.vercel.app/api?username=Magna-amoim)](https://github.com/Magna-amorim/github-readme-stats)
+[![Magna-amorim GitHub stats](https://github-readme-stats.vercel.app/api?username=Magna-amorim)](https://github.com/Magna-amorim/github-readme-stats)
 
 
 
